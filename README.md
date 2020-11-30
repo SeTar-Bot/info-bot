@@ -13,7 +13,7 @@ Then use `node index.js` to run the bot Or use `start.bat` file to run bot
 <br><br>
 You cand change the bot prefix in `index.js` at line 5
 #
-<br>
+<br><br>
 **آموزش نصب**
 <br><br>
 را بر روی سیستم خود نصب کرده باشید <a href="https://nodejs.org/en/">Node.js</a> اول از همه شما باید 
