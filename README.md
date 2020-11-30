@@ -29,6 +29,6 @@ You cand change the bot prefix in `index.js` at line 5
 <br><br>
 در خط 5 تغییر دهید `index.js` شما میتوانید پیش درستور ربات را در فایل
 <br><br>
-**با تشکر
+
 <br><br>
 -its'Hadi.Az'#1405**
