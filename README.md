@@ -1,6 +1,4 @@
-# Truth-or-Dare
-<br><br>
-You Can Easly Change Or Add Questions
+# info-bot
 <br>
 **Installation:**
 <br><br>
