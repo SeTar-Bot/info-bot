@@ -1,5 +1,5 @@
 # info-bot
-<br>
+<br><br>
 **Installation:**
 <br><br>
 First of all you should install <a href="https://nodejs.org/en/">Node.js</a>
