@@ -11,7 +11,6 @@ Then use `node index.js` to run the bot Or use `start.bat` file to run bot
 <br><br>
 **🔴Do not forget to set the bot token in config.json🔴**
 <br><br>
-You cand change the bot prefix in `index.js` at line 5
 #
 <br><br>
 **آموزش نصب**
@@ -27,8 +26,6 @@ You cand change the bot prefix in `index.js` at line 5
 برای اجرای ربات استفاده کنید`start.bat`یا از فایل  
 <br><br>
 **🔴ست کنید `config.json` فراموش نکنید که توکن ربات رو داخل🔴**
-<br><br>
-در خط 5 تغییر دهید `index.js` شما میتوانید پیش درستور ربات را در فایل
 <br><br>
 **با تشکر
 <br><br>
