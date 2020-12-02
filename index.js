@@ -55,6 +55,7 @@ const client = new Discord.Client();
     const server = new Discord.MessageEmbed()
       .setColor('#cad347')
       .setAuthor(`${message.guild.name}`)
+      .setThumbnail(message.guild.iconURL();
       .addFields(    
             { name: 'اسم سرور', value: `${message.guild.name}`, inline: true },
             { name: 'ایدی سرور', value: `${message.guild.id}`, inline: true },
